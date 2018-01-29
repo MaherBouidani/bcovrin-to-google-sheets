@@ -166,8 +166,8 @@ def update_sheets():
 
     #claim_response = requests.get('https://django-devex-von-dev.pathfinder.gov.bc.ca/api/v1/verifiableclaims')
     #claims = claim_response.json()
-
     #for claim in claims:
+    ###
         
         # do stuff
         #pass
